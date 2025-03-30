@@ -1,4 +1,4 @@
-# 📚 Newspaper Summary Database
+# 📚 Industrial Product Management System
 
 This project is a **collaboratively developed web application** designed to manage essential details about industrial products. It features a clean and intuitive user interface to enhance the client’s experience while ensuring smooth backend operations. The system is built using **ASP.NET MVC** with seamless integration of front-end and back-end technologies to provide a scalable and responsive solution.
 
