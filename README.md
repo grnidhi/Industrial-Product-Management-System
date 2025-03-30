@@ -31,5 +31,5 @@ This project is a **collaboratively developed web application** designed to mana
 ## ⚙️ How to Get Started
 1. **Clone the Repository:**
 ```bash
-git clone 
+git clone https://github.com/grnidhi/Industrial-Product-Management-System/tree/master
 
