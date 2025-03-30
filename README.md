@@ -23,3 +23,13 @@ This project is a **collaboratively developed web application** designed to mana
 ---
 
 ## 📂 Project Structure
+/Industrial_product_management_system ├── /Controllers # Manages app logic and routes ├── /Models # Defines data structures ├── /Views # Handles UI and displays data ├── /wwwroot # Contains static files (CSS, JS, images) ├── /Database # SQL scripts and DB files └── README.md # Project overview and documentation
+
+
+---
+
+## ⚙️ How to Get Started
+1. **Clone the Repository:**
+```bash
+git clone 
+
